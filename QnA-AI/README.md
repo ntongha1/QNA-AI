@@ -24,7 +24,7 @@ cd server
 bash script/start "<your OPENAI_API_KEY>"
 ```
 
-### Client
+### Client#
 
 Navigate to the client directory and install Node dependencies:
 
